@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BeLight Academy//Workshop//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:belight-workshop-20261201T190000Z-0@belight-academy.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261201T190000Z
+DTEND:20261201T203000Z
+SUMMARY:Abend 1: Was steckt in dir? BeLight Workshop
+DESCRIPTION:Live-Workshop mit Florian Bauer. Den Zugangslink bekommst du per E-Mail.
+LOCATION:Online (Link per E-Mail)
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Abend 1: Was steckt in dir? BeLight Workshop
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BeLight Academy//Workshop//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:belight-workshop-20261202T190000Z-1@belight-academy.com
+DTSTAMP:20261114T100000Z
+DTSTART:20261202T190000Z
+DTEND:20261202T203000Z
+SUMMARY:Abend 2: Was hält dich davon ab? BeLight Workshop
+DESCRIPTION:Live-Workshop mit Florian Bauer. Den Zugangslink bekommst du per E-Mail.
+LOCATION:Online (Link per E-Mail)
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Abend 2: Was hält dich davon ab? BeLight Workshop
+END:VALARM
+END:VEVENT
+END:VCALENDAR
